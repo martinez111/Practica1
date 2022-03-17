@@ -1,0 +1,1 @@
+Get-Command Get-Help | Get-Member | Get-Member
